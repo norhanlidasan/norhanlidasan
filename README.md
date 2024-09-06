@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @norhanlidasan
-- 👀 I’m interested in redeaing some interesting books, learning new things and playing mobile games
+- 👀 I’m interested in reading some interesting books, learning new things and playing mobile games
 - 🌱 I’m currently learning HTML, CSS and Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
